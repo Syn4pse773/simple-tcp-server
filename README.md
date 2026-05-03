@@ -33,12 +33,12 @@ This project was built to explore low-level network programming. It interacts di
 2. **Compile the source code:**
    ```bash
    fasm server.asm
-   chmod +x server
+   chmod +x main
    ```
 
 3. **Start the server:**
    ```bash
-   ./server
+   ./main
    ```
    *The server will start and wait for exactly two clients to connect on port 8080.*
 
