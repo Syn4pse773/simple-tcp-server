@@ -32,7 +32,7 @@ This project was built to explore low-level network programming. It interacts di
 
 2. **Compile the source code:**
    ```bash
-   fasm server.asm
+   fasm main.asm
    chmod +x main
    ```
 
